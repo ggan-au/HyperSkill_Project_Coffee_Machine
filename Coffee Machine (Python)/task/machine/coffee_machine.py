@@ -21,12 +21,3 @@ elif total_remaining_coffee_cups > coffee_cups_requested:
     print(f"Yes, I can make that amount of coffee (and even {total_remaining_coffee_cups - coffee_cups_requested} more than that)")
 else:
     print(f"No, I can make only {total_remaining_coffee_cups} cups of coffee")
-
-
-# water = coffee_cups_requested * WATER_PER_CUP
-# milk = coffee_cups_requested * MILK_PER_CUP
-# beans = coffee_cups_requested * BEANS_GRAM_PER_CUP
-# print(f"For {coffee_cups_requested} cups of coffee you will need:")
-# print(f"{water} ml of water")
-# print(f"{milk} ml of milk")
-# print(f"{beans} g of coffee beans")
