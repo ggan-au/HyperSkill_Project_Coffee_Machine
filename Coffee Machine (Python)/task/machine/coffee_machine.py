@@ -95,6 +95,8 @@ def main_menu(machine):
 coffee_machine = CoffeeMachine(400, 540, 120, 9, 550)
 main_menu(coffee_machine)
 
+#Project completed
+
 
 
 
